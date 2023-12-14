@@ -1,4 +1,4 @@
-#Ju-Lab Repository
+#Ju-Lab
 Overview
 Welcome to the Ju-Lab repository! This repository contains programs and solutions for lab assignments from Jadavpur University. The assignments are organized into separate sheets, such as "Assignment Sheet 1," "Assignment Sheet 2," and so on. "Assignment-1" contains programs from "Assignment sheet 1".
 
